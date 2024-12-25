@@ -8,5 +8,9 @@ Aim_CV: 基于颜色识别的自动瞄准辅助工具
 实时显示处理后的图像和掩码
 
 
-Uploading 2512363253.mp4…
+
+
+https://github.com/user-attachments/assets/cc6bdac5-4edd-498d-b69c-0d1e1befa36a
+
+
 
