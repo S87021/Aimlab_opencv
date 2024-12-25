@@ -8,6 +8,7 @@ import mss
 
 # 定义目标颜色范围
 # 定义颜色范围的下界和上界，用于后续的图像处理
+#Red
 lower_bound = np.array([130,0,0])
 upper_bound = np.array([255, 40, 40])
 
